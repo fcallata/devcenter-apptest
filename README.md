@@ -1,7 +1,8 @@
 # devcenter-apptest
 ---
 > Para usar MongoDb usamos Docker y ejecutamos la siguiente linea
-`code` code docker run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4
+>
+`code` docker run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4
 
 ---
 
