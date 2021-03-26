@@ -1,5 +1,5 @@
-package com.devcenter.logtest.data;
+package com.devcenter.logtest.data.enumerated;
 
 public enum ServiceEnum {
-    EJEMPLO, EJEMPLO2
+    SERVICIO1, SERVICIO2
 }
